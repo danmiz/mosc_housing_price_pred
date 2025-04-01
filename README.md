@@ -60,9 +60,10 @@ README.md              → This file
 - Created new variables such as size ratios and temporal indicators  
 - Encoded location data using smoothed average price per sub-area:
 
-  \[
-  \text{Encoded Price} = \left(\frac{n}{n + m}\right) \cdot \text{Local Avg} + \left(1 - \frac{n}{n + m}\right) \cdot \text{Global Avg}
-  \]
+$$
+\text{Encoded Price} = \left( \frac{n}{n + m} \right) \cdot \text{Local Avg} + \left( 1 - \frac{n}{n + m} \right) \cdot \text{Global Avg}
+$$
+
 
 ### 4. Modeling
 - Built separate models for each product type  
