@@ -1,0 +1,12 @@
+hospital_beds_raion	Number of hospital beds for the district
+healthcare_centers_raion	Number of healthcare centers in district
+shopping_centers_raion	Number of malls and shopping centres in district
+office_raion	Number of malls and shopping centres in district
+thermal_power_plant_raion	Presence of thermal power station in district
+incineration_raion	Presence of incinerators
+oil_chemistry_raion	Presence of dirty industries
+radiation_raion	Presence of radioactive waste disposal
+railroad_terminal_raion	Presence of the railroad terminal in district
+big_market_raion	Presence of large grocery / wholesale markets
+nuclear_reactor_raion	Presence of existing nuclear reactors
+detention_facility_raion	Presence of detention centers, prisons

@@ -1,0 +1,67 @@
+metro_min_avto	Time to subway by car, min.
+metro_km_avto	Distance to subway by car, km
+metro_min_walk	Time to metro by foot
+metro_km_walk	Distance to the metro, km
+kindergarten_km	Distance to kindergarten
+school_km	Distance to high school 
+park_km	Distance to park
+green_zone_km	Distance to green zone
+industrial_zone_km	Distance to industrial zone
+water_treatment_km	Distance to water treatment
+cemetery_km	Distance to the cemetery
+incineration_km	Distance to the incineration
+railroad_station_walk_km	Distance to the railroad station (walk)
+railroad_station_walk_min	Time to the railroad station (walk)
+ID_railroad_station_walk	Nearest railroad station id (walk)
+railroad_station_avto_km	Distance to the railroad station (avto)
+railroad_station_avto_min	Time to the railroad station (avto)
+ID_railroad_station_avto	Nearest railroad station id (avto)
+public_transport_station_km	Distance to the public transport station (walk)
+public_transport_station_min_walk	Time to the public transport station (walk)
+water_km	Distance to the water reservoir / river
+water_1line	First line to the river (150 m)
+mkad_km	Distance to MKAD (Moscow Circle Auto Road)
+ttk_km	Distance to the TTC (Third Transport Ring)
+sadovoe_km	Distance to the Garden Ring
+bulvar_ring_km	The distance to the Boulevard Ring
+kremlin_km	Distance to the city center (Kremlin)
+big_road1_km	Distance to Nearest major road
+ID_big_road1	Nearest big road id
+big_road1_1line	First line to the road (100 m for highwys, 250 m to MKAD)
+big_road2_km	The distance to next distant major road
+ID_big_road2	2nd nearest big road id
+railroad_km	Distance to the railway / Moscow Central Ring / open areas Underground
+railroad_1line	First line to the railway (100 m)
+zd_vokzaly_avto_km	Distance to train station
+ID_railroad_terminal	Nearest railroad terminal id
+bus_terminal_avto_km	Distance to bus terminal (avto)
+ID_bus_terminal	Nearest bus terminal id
+oil_chemistry_km	Distance to dirty industries
+nuclear_reactor_km	Distance to nuclear reactor
+radiation_km	Distance to burial of radioactive waste
+power_transmission_line_km	Distance to power transmission line
+thermal_power_plant_km	Distance to thermal power plant
+ts_km	Distance to power station
+big_market_km	Distance to grocery / wholesale markets
+market_shop_km	Distance to markets and department stores
+fitness_km	Distance to fitness
+swim_pool_km	Distance to swimming pool
+ice_rink_km	Distance to ice palace
+stadium_km	Distance to stadium
+basketball_km	Distance to the basketball courts
+hospice_morgue_km	Distance to hospice/morgue
+detention_facility_km	Distance to detention facility
+public_healthcare_km	Distance to public healthcare
+university_km	Distance to universities
+workplaces_km	Distance to workplaces
+shopping_centers_km	Distance to shopping centers
+office_km	Distance to business centers/ offices
+additional_education_km	Distance to additional education
+preschool_km	Distance to preschool education organizations
+big_church_km	Distance to large church
+church_synagogue_km	Distance to Christian chirches and Synagogues
+mosque_km	Distance to mosques
+theater_km	Distance to theater
+museum_km	Distance to museums
+exhibition_km	Distance to exhibition
+catering_km	Distance to catering

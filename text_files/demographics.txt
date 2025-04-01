@@ -1,0 +1,30 @@
+raion_popul	Number of municipality population. district
+full_all	Total number of  population in the municipality
+male_f	Male population
+female_f	Female population
+young_all	Population younger than working age
+young_male	Male population younger than working age 
+young_female	Feale population younger than working age 
+work_all	Working-age population
+work_male	Male working-age population
+work_female	Female working-age population
+ekder_all	Population older than  working age
+ekder_male	Male population older than  working age
+ekder_female	Female population older than  working age
+0_6_all	Population aged 0-6
+0_6_male	Male population aged 0-7
+0_6_female	Female population aged 0-8
+7_14_all	Population aged  7-14
+7_14_male	Male population aged 7-14
+7_14_female	Female population aged 7-14
+0_17_all	Population aged 0-17
+0_17_male	Male population aged 0-17
+0_17_female	Female population aged 0-17
+16_29_all	Population aged 16-19
+16_29_male	Male population aged 16-19
+16_29_female	Female population aged 16-19
+0_13_all	Population aged 0-13
+0_13_male	Male population aged 0-13
+0_13_female	Female population aged 0-13
+children_preschool	Number of pre-school age population
+children_school	Population of school-age children

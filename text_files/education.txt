@@ -1,0 +1,8 @@
+preschool_quota	Number of seats in pre-school organizations
+preschool_education_centers_raion	Number of pre-school  institutions
+school_quota	Number of high school seats in area
+school_education_centers_raion	Number of  high school institutions
+school_education_centers_top_20_raion	Number of high schools of the top 20 best schools in Moscow
+university_top_20_raion	Number of higher education institutions in the top ten ranking of the Federal rank
+sport_objects_raion	Number of higher education institutions
+additional_education_raion	Number of additional education organizations

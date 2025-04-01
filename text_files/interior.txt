@@ -1,0 +1,14 @@
+price_doc: sale price (this is the target variable)
+id: transaction id
+timestamp: date of transaction
+full_sq: total area in square meters, including loggias, balconies and other non-residential areas
+life_sq: living area in square meters, excluding loggias, balconies and other non-residential areas
+floor: for apartments, floor of the building
+max_floor: number of floors in the building
+material: wall material
+build_year: year built
+num_room: number of living rooms
+kitch_sq: kitchen area
+state: apartment condition
+product_type: owner-occupier purchase or investment
+sub_area: name of the district

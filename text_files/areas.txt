@@ -1,0 +1,4 @@
+area_m	Area mun. area, sq.m.
+raion_popul	Number of municipality population. district
+green_zone_part	Proportion of area of ​​greenery in the total area
+indust_part	Share of industrial zones in area of ​​the total area
